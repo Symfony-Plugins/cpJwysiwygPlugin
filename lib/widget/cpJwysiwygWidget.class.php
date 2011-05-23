@@ -33,10 +33,10 @@ EOF
   }
   
   public function getJavascripts() {
-    return array('/dzJwysiwygPlugin/jwysiwyg/jquery.wysiwyg.js');
+    return array('/cpJwysiwygPlugin/jwysiwyg/jquery.wysiwyg.js');
   }
   
   public function getStylesheets() {
-    return array('/dzJwysiwygPlugin/jwysiwyg/jquery.wysiwyg.css' => 'screen');
+    return array('/cpJwysiwygPlugin/jwysiwyg/jquery.wysiwyg.css' => 'screen');
   }
 }
